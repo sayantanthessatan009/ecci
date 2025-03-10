@@ -1,0 +1,44 @@
+PRECISION SPARES MFG CO (P056) 
+PAN No : AFRPP7690H Mail ID : precision.spares@yahoo.co.in 
+Electronic Challan Cum Invoice 
+
+Mobile No : 09339383543 / 09339383543 
+ECCI No : 1001834858 ASN : 1500434974 
+Order No : 2100910408 Order Dt. : JAN 14, 2025 
+Tax Invoice No. : PSMC/24-25/278 Tax Invoice Dt : Mar 05, 2025 
+
+Ware House : KPO Central WH A/C Assign : 
+Col. Center : STORES COLLECTION CENTER ECCI Status : Ready for 
+
+FOR KPO dispatch Vehicle No. : ECCI Dt. : Mar 05, 2025 e-Way Bill No. : Self Certified : No 
+Item No  Material No.  Material Description  PO Text  HSN Code  Plant  S.Loc  Cost Center  Cost Center Desc  Dept.  Quantity  Rate (INR)  Value (INR)  
+00010  5544B0092  BOLT;COACH BOLT TYPE A CUP HEAD ,20 MM,1  Short text BOLT COACH BOLT TYPE A CUP HEAD 20 MM 1 Long Text TYPE COACH BOLT TYPE A CUP HEAD REFERENCE STANDARD IS 2609 SIZE 20 MM MATERIAL OF CONSTRUCTION  73182990  110  852  
+ 
+ 
+ 100 NOS  134  13400  
+Condition Description  Condition Value  Condition Value  
+
+CARBON STEEL PROPERTY  Base Amount  13400  INR  
+CLASS/GRADE 8.8 SURFACE COATING BLACK THREAD TYPE METRIC THREAD LENGTH STANDARD OVERALL LENGTH 150 MM THREAD  IN: Integrated GST  2532.60  
+ 
+Packaging charge (%)  670  
+HANDEDNESS RIGHT END TYPE FLAT  
+SPECIAL FEATURES WITH NYLOK NUT  
+AND CUP WASHER 5544B0092  
+
+Amount in words : Thirteen thousand four hundred rupees only Total Rs : 13400 /­(Before Tax) 
+For PRECISION SPARES MFG CO For Tata Steel Ltd. Signature : Signature : 
+
+PRECISION SPARES MFG CO (P056) 
+PAN No : AFRPP7690H Mail ID : precision.spares@yahoo.co.in 
+
+ECCI Packing Details 
+Mobile No : 09339383543 / 09339383543 
+ECCI No : 1001834858 ASN : Order No : 2100910408 Tax Invoice No. : PSMC/24-25/278 Dispatch Date : Mar 12, 2025 3PL Vendor : O222 Dispatch Address : A1/4, DIAMOND PARK; Contact Person : D.PAUL/9339383 
+KOLKATA-700104 543 
+S No  Package Type  No of Packages  Weight(kg)  Length(cm)  Breadth(cm)  Height(cm)  
+1  Cardboard Box  2  60  45  36  20  
+
+
+
+
